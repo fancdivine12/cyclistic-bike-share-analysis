@@ -1,15 +1,19 @@
-Cyclistic Bike-Share Analysis Report
+## 🚲 Cyclistic Bike-Share Analysis
 
-## Overview
-This project analyzes the usage patterns of Cyclistic's bike-share program, focusing on differences between casual riders and annual members. The goal is to help Cyclistic convert casual riders into annual members by understanding behavior differences and providing actionable insights.
+### Business Problem  
+Cyclistic wants to increase annual memberships by converting casual riders into subscribers.
 
-## Files
-- **Cyclistic_Bike-Share_Analysis_Report.pdf**: The final report containing data analysis, visualizations, and recommendations.
-- **analysis_code.Rmd**: The R Markdown file containing the script used for the analysis.
+### Key Insight  
+Casual riders primarily use bikes on weekends for longer recreational trips, while members use them more frequently for short, weekday commutes.
 
-## How to Use
-- **PDF Report**: Click this link to view the report
-  https://472385f0fd424446acef8027da89f555.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fmarkdownpdfbike.html
-  
-- **R Markdown**: You can download the R Markdown file and run it in RStudio to reproduce the analysis.
+### Recommendation  
+Cyclistic should launch targeted weekend-to-weekday conversion campaigns, focusing on casual riders who demonstrate repeat usage patterns, to increase membership conversion rates.
 
+### Tools Used  
+- R (tidyverse)  
+- Data cleaning + transformation  
+- Exploratory data analysis  
+- Visualization  
+
+### Outcome  
+This analysis identifies behavioral differences between user types and provides data-driven strategies to increase long-term customer value.
